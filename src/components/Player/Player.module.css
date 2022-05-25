@@ -1,0 +1,13 @@
+.BtnSetting{
+  height: 30px;
+  width: 100px;
+  margin-left: 15px;
+  box-shadow: #E9967A  0px 5px 15px;
+  border: none;
+  border-radius: 5%;
+  color: #987575;
+}
+.BtnSetting:hover{
+  background-color: #987575;
+  color: white ;
+}
